@@ -1,0 +1,7 @@
+{
+    "server_url": "http{s}://your.seatable.server.url/",
+    "api_token": "api token with read-write permission",
+    "table_name": "table name",
+    "ignored_domains": ["domainA", "domainB"],
+    "row_name_to_be_updated": "row name of ca expiration"
+}
